@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/security-demo02/security-demo02.iml" filepath="$PROJECT_DIR$/security-demo02/security-demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-demo03/security-demo03.iml" filepath="$PROJECT_DIR$/security-demo03/security-demo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-demo1/security-demo1.iml" filepath="$PROJECT_DIR$/security-demo1/security-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-jwt/security-jwt.iml" filepath="$PROJECT_DIR$/security-jwt/security-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-oauth2/security-oauth2.iml" filepath="$PROJECT_DIR$/security-oauth2/security-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/security-test/security-test.iml" filepath="$PROJECT_DIR$/security-test/security-test.iml" />
+    </modules>
+  </component>
+</project>

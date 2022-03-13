@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/security-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/security-demo02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/security-test/pom.xml" />
+        <option value="$PROJECT_DIR$/security-demo03/pom.xml" />
+        <option value="$PROJECT_DIR$/security-oauth2/pom.xml" />
+        <option value="$PROJECT_DIR$/security-jwt/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/spring-eureka-demo/eureka-consumer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/spring-eureka-demo/eureka-producer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/spring-eureka-demo/eureka-server-duplicate/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/spring-eureka-demo/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/spring-mongodb-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/spring-rabbitmq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/spring-security-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/spring-zookeeper-demo/zookeeper-consumer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-learning-demo/spring-zookeeper-demo/zookeeper-producer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-services/common/service-base/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-services/common/spring-security-base/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

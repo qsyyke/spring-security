@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="security-jwt" />
+        <module name="eureka-producer-service (1)" />
+        <module name="eureka-producer-service (2)" />
+        <module name="security-demo02" />
+        <module name="security-demo1" />
+        <module name="security-demo03" />
+        <module name="eureka-server (1)" />
+        <module name="eureka-server (2)" />
+        <module name="security-oauth2" />
+        <module name="spring-rabbitmq-demo (2)" />
+        <module name="spring-rabbitmq-demo (1)" />
+        <module name="eureka-server-duplicate (1)" />
+        <module name="eureka-server-duplicate (2)" />
+        <module name="spring-mongodb-demo (1)" />
+        <module name="security-test" />
+        <module name="spring-mongodb-demo (2)" />
+        <module name="zookeeper-consumer-service (1)" />
+        <module name="eureka-consumer-service (2)" />
+        <module name="zookeeper-producer-service (2)" />
+        <module name="zookeeper-producer-service (1)" />
+        <module name="zookeeper-consumer-service (2)" />
+        <module name="eureka-consumer-service (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="1.5" />
+      <module name="eureka-consumer-service (1)" target="1.8" />
+      <module name="eureka-consumer-service (2)" target="1.8" />
+      <module name="eureka-producer-service (1)" target="1.8" />
+      <module name="eureka-producer-service (2)" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="eureka-server (2)" target="1.8" />
+      <module name="eureka-server-duplicate (1)" target="1.8" />
+      <module name="eureka-server-duplicate (2)" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="infrastructure" target="8" />
+      <module name="security-base" target="8" />
+      <module name="security-demo02" target="1.8" />
+      <module name="security-demo03" target="1.8" />
+      <module name="security-demo1" target="1.8" />
+      <module name="security-jwt" target="1.8" />
+      <module name="security-oauth2" target="1.8" />
+      <module name="security-service-base" target="8" />
+      <module name="security-test" target="1.8" />
+      <module name="service" target="8" />
+      <module name="service-acl" target="1.8" />
+      <module name="service-base" target="8" />
+      <module name="spring-boot-learning" target="1.8" />
+      <module name="spring-boot-learning (1)" target="1.8" />
+      <module name="spring-boot-learning (2)" target="1.8" />
+      <module name="spring-mongodb-demo (1)" target="1.8" />
+      <module name="spring-mongodb-demo (2)" target="1.8" />
+      <module name="spring-rabbitmq-demo (1)" target="1.8" />
+      <module name="spring-rabbitmq-demo (2)" target="1.8" />
+      <module name="spring-security-base" target="8" />
+      <module name="spring-security-demo" target="1.8" />
+      <module name="spring-security-services" target="1.5" />
+      <module name="zookeeper-consumer-service (1)" target="1.8" />
+      <module name="zookeeper-consumer-service (2)" target="1.8" />
+      <module name="zookeeper-producer-service (1)" target="1.8" />
+      <module name="zookeeper-producer-service (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gateway" options="-parameters" />
+      <module name="security-demo02" options="-parameters" />
+      <module name="security-demo03" options="-parameters" />
+      <module name="security-demo1" options="-parameters" />
+      <module name="security-jwt" options="-parameters" />
+      <module name="security-oauth2" options="-parameters" />
+      <module name="security-test" options="-parameters" />
+      <module name="service-acl" options="-parameters" />
+    </option>
+  </component>
+</project>
